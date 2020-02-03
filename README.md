@@ -7,15 +7,15 @@ tests.py,urls.py,views.py这六个python文件。通过编写相关函数以及�
 具体实现页面如下图所示：
 
 
-###图1.django admin登录页面
+### 图1.django admin登录页面
 
 ![image](https://github.com/yl-cris/Use-the-django-web-framework-to-implement-blog-pages/blob/master/images/1.jpg)
 
-###图2.django admin博客管理页面
+### 图2.django admin博客管理页面
 ![image](https://github.com/yl-cris/Use-the-django-web-framework-to-implement-blog-pages/blob/master/images/2.jpg)
 
-###图3.博客首页
+### 图3.博客首页
 ![image](https://github.com/yl-cris/Use-the-django-web-framework-to-implement-blog-pages/blob/master/images/3.jpg)
 
-###图4.博客文章详情页
+### 图4.博客文章详情页
 ![image](https://github.com/yl-cris/Use-the-django-web-framework-to-implement-blog-pages/blob/master/images/4.jpg)
